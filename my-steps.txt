@@ -117,29 +117,69 @@ $ touch pea.txt
 
 ### Step 3F
 
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice/veggies
+$ cd ..
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ cd sweets
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice/sweets
+$ touch cookie.txt
 
 ### Step 3G
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice/sweets
+$ mv cookie.txt donut.txt
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice/sweets
+$ cd ..
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ touch menu.txt
 
 
 ### Step 3H
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ touch thing.txt
 
 
 ### Step 3I
+$ cp thing.txt tofu.txt
 
 
 ### Step 3J
+$ mv tofu.txt proteins
 
 
 ### Step 3K
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ cp thing.txt crab.txt
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ mv crab.txt proteins/meats
 
 
 ### Step 3L
+$ rm thing.txt
 
 
 ### Step 3M
+$ cp -r veggies plants
 
 
 ### Step 3N
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ mkdir drinks
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ rm -r drinks
 
 
 

@@ -1,0 +1,156 @@
+### Step 2A
+/c/Users/kateg
+
+
+### Step 2B
+$ cd /c/Users/kateg/OneDrive/Desktop
+
+
+### Step 2C
+$ cd unit1-git-practice
+
+
+### Step 2D
+/c/Users/kateg/OneDrive/Desktop/unit1-git-practice
+
+
+
+### Step 2E
+$ ls
+
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+kateg@Katelaptop MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd ..
+
+kateg@Katelaptop MINGW64 ~/OneDrive/Desktop
+$ cd ..
+
+kateg@Katelaptop MINGW64 ~/OneDrive
+$ cd ..
+
+
+### Step 2H
+/c/Users/kateg
+
+
+### Step 2I
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.dat
+ NTUSER.dat.bak.{0F9ECD29-0C5A-461F-81AD-B878DF86FA21}
+ NTUSER.dat{bce4548d-2b2c-11ed-a05e-806e6f6e6963}.TM.blf
+ NTUSER.dat{bce4548d-2b2c-11ed-a05e-806e6f6e6963}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.dat{bce4548d-2b2c-11ed-a05e-806e6f6e6963}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+'Unit 1'/
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+'unit 1 js'/
+
+
+### Step 2J
+$ cd ~
+
+
+### Step 2K
+$ cd /c/Users/kateg/OneDrive/desktop/unit1-git-practice/
+
+
+
+### Step 3A
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ mkdir veggies
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ mkdir meats
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ mkdir desserts
+
+
+### Step 3B
+$ mv desserts sweets
+
+
+### Step 3C
+$ mkdir proteins
+
+
+### Step 3D
+$ mv meats proteins
+
+
+### Step 3E
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice
+$ cd veggies
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice/veggies
+$ touch carrot.txt
+
+kateg@Katelaptop MINGW64 ~/OneDrive/desktop/unit1-git-practice/veggies
+$ touch pea.txt
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
